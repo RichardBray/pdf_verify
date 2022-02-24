@@ -22,5 +22,4 @@ Check cerficiate expirty date with OpenSSL
 openssl x509 -in personal.pem -text -noout | grep -i not
 ```
 
-Has spreadsheet which can be access on request
-https://www.facultyoffice.org.uk/notaries/customers/access-to-data/
+Test pdfs were optained from PDF Tron
